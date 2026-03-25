@@ -3,7 +3,7 @@ description: "Uploads GraphQL schemas to the Nitro registry"
 author: "ChilliCream"
 branding:
   icon: "upload-cloud"
-  color: "purple"
+  color: "blue"
 
 inputs:
   tag:
